@@ -7,11 +7,11 @@ export const tasks = [
   {
     id: 1,
     title: "my second task",
-    description: "This's my third task description",
+    description: "This's my second task description",
   },
   {
     id: 2,
     title: "my third task",
-    description: "This's my fourth task description",
+    description: "This's my third task description",
   },
 ];
